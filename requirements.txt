@@ -1,6 +1,9 @@
 streamlit
 langchain
-langchain-google-genai
-langchain-vectorstores
+langchain-groq
+langchain-huggingface
 langchain-community
+beautifulsoup4
 faiss-cpu
+python-dotenv
+sentence-transformers
